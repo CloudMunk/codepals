@@ -1,0 +1,25 @@
+.firstOne {
+    height: auto;
+    max-width: 200px !important;
+    margin: 15px auto;
+}
+.secondOne {
+    height: auto;
+    max-width: 200px !important;
+    margin: 15px auto;
+}
+.thirdOne {
+    height: auto;
+    max-width: 200px !important;
+    margin: 15px auto;
+}
+.fourthOne {
+    height: auto;
+    max-width: 200px !important;
+    margin: 15px auto;
+}
+.parentDivFlex {
+    display: flex;
+    flex-direction: column;
+    justify-self: space-between;
+}
